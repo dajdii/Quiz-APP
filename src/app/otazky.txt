@@ -1,0 +1,321 @@
+﻿vyjmenuj 3 země s největším počtem obyvatel
+Vyjmenuj sestupně 5 největších zemí dle rozlohy
+Nejmneší stát v evropě (kromě vatikánu)
+Komu patří grónsko
+Na které polokouli žijí tučňáci
+Jaká je nadmořská výška mrtvého moře(+- 30m)
+Hlavní město Finska
+Hlavní město Norska
+Hlavní město Černé hory
+hlavní město Holandska
+Hlavní město Belgie
+Hlavní město Irska
+Hlavní město Dánska
+Hlavní město Rumunska
+Hlavní město Řecka
+Hlavní město Chorvatska
+Hlavní město Lotyšska
+Hlavní město Austrálie
+Hlavní město Kanady
+Hlavní město Nového zélandu
+Vyjmenuj Oceány sestupně podle velikosti
+Kolik měří směžka
+Kolik měří nejvyšší hora světa
+Nejvyšší hora Evropy
+Nejvyšší hora Afriky
+Jaká je největší pyramida na světě
+Jaké je největší moře na světě
+Nejhlubší místo na světě
+Největší ostrov na Světě
+#Monaco
+#Belgie
+#Irsko
+#Cerna Hora
+#Recko
+#Italie
+#Rumunsko
+#Belorusko
+#Filipiny
+#Portugalsko
+#Madagaskar
+#Vietnam
+#Japonsko
+#Korea
+#Mongolsko
+#Indie
+#Turecko
+#Madarsko
+#Island
+Seřad sestupně kontinenty podle velikosti
+V jakém městě byla dvojčata
+V jakém městě je Burj Chalífa
+Kde leží největší hradní komplex na světě
+Jak se jmenuje nejhlubší propast v ČR?
+Jaká je nejdelší řeka v ČR?
+Na jaká dvě japosnká města dopadly jaderné bomby?
+Který je největší stát USA?
+Jaké je nejvyšší pohoří?
+Kde se náchází Zeď Nářků?
+Jak se jmenuje největší řeka v Africe?
+V jakém roce spadly jaderné bomby na Hirošimu a Nagasaki?
+Jak dlouho trvala 30 letá válka
+Co je pakt Ribbentrop–Molotov?
+Mezi kým s odehrávala 100 letá válka
+Kdy začala a skončila 1. světová válka
+Kdy začala a skončila 2. světová válka
+Kdy vnikla česká republika
+V jakém století Kolumbus objevil ameriku
+V jakém století se odehrávala 100 letá válka?
+V jakém století se odehrávala 30 letá válka?
+V jakém roce zemřel Julius Caesar? (+-5 let)
+Kdo postavil Karlův most?
+V jakém roce ČR vstoupila do NATO?
+V jakém roce ČR vstoupila do EU?
+Kdy byl upálen Mistr Jan Hus?
+Kdy vznikl Facebook?
+Kdy vznikl YouTube?
+Kdy byl založen Apple?
+Na koho byl v praze proveden atentát 27. května 1942?
+Kolik dětí měla Marie Terezie
+Kdo patřil do osy zla v druhé světové válce?
+Kolikátý prezident byl Donald Trump?
+Na kolik let se volí prezident v ČR?
+Kolik čelnů má Parlament ČR?
+Kdo složil českou hymnu?
+Jak se jmenoval první člověk ve vesmíru?
+Jaký mise jako první přistál na měsíci?
+Kdo byli členové první posádky na měsíci? (2)
+Kolik je divů světa?
+Co zničilo roku 79 město pompeje?
+Kdo nechal zhotovit korunovační klenoty?
+Jak se původně jemnoval Karel IV.?
+V jakém roce byla vydána Zlatá Bula Sicilská?
+Co byly křižácké výpravy?
+Kdo vynalezl dynamit?
+Kdy vznikla charta 77?
+Kdy byl založen oddíl národní házené TJ Sokol Svinov?
+Kdo na Velkou moravu přinesl Hlaholici?
+Jak se jmenoval vůdce největší vzpoury otroků v římských dějinách?
+K jakému rodu patřil karel IV.?
+Kde byla objevena soška ženy Venuše?
+Kdo vládl v Egyptě?
+Co označuje Eufrat a Tigris?
+Jak se jmenovali bratři co založili Řím?
+Kdo byl gladiátor?
+Kolik sparťanů vyrazilo proti Peršanům s králem Leonidem?
+Jak se jmenuje obrovská aréna v římě?
+Kdo založil Apple? (min. 2)
+Jak řekové dobili Tróju?
+Co byl projekt Manhattan?
+Vzorec pythagorovi věty
+Jaká je součet vnitřních úhlů rovnostranného trojúhelníku
+Vzorec na výpočet obsahu kruhu
+Vzorec na výpočet obvodu kruhu
+Jak se vypočítá rychlost
+Jak vypočítáš Hustotu
+Dokaž že kruh je v podstatě čtverec
+Jakou hodnotu má gravitační zrychlení na zemi
+Kolik litrů je decimetr krychlový
+Kolik je 1 palec na cm
+Jak dlouho trvá než se země otočí kolem své osy?
+Proč je přestupný rok?
+kolik je 2 na 10?
+Kolik váží malé máslo? (1/8)
+Jakou část celku tvoří promile?
+Kolik znamení ma zvěrokruh?
+Co znamené zkratka OSN?
+Na jaké bankovce je Božena němcová?
+Kdo je na bankovce s hodnotou 5000kč?
+Kolik figurek má jeden hráč šachu?
+Kolik kostiček tvoří rubikovu kostku?
+Jaká je maximální rychlost v obytné zóně?
+Jaká je v česku největší povolené rychlost na dálnici?
+Jak napíšeš rok 1654 v římských číslech?
+Kolik sekund má hodina?
+Jakou hodnotu má Ludolfovo číslo? (3 desetinné čísla)
+Co je ve znaku Svinova?
+Jak se původně jmenoval New York
+Kolik párů žeber má průměrný člověk?
+Největší savec na světě?
+Jak se jmenují 3 sluchové kůstky? (min. 2)
+Do jaké skupiny živočichů patří chobotnice?
+Do jaké skupiny živočichů patří žralok?
+Kolik má průměrný člověk zubů?
+Z jaké rostliny se vyrábí kokain?
+Jakou rozlohu mají plíce?
+Jak dlouhé je tenké střevo?
+K čemu slouží slepé střevo?
+Jaké orgány může člověk darovat? (3)
+Jak se jmenují nejvyšší stromy světa?
+Jak se jmenuje nejrychejší savec?
+Jak se jmenuje motýl z jehož kukel se vyrábí hedvábí?
+Jak se jmenuje samec od husy?
+Jak se lidově označuje Prvosenka jarní?
+Které zvíře se dožívá nejvyššího věku?
+Které zvíře zabije průměrně nejvíce lidí ročně?
+Co je to fotosyntéza?
+Co je symbióza?
+Co je největší sladkovodní ryba?
+Co je největší létavý pták?
+Který český film získal Oskara?
+Jak se jmenovla kočka školníka Filche z Harryho Pottera? 
+V jakém věku chodili studenti do Bradavic?
+Jak se jmenovali 4 mušketýři?
+Kapitán jaké lodi byl Davy Jones?
+Jak se jmenuje auto z Cesta do budoucnousti?
+Kdo hrál Harryho pottera?
+Jak se jmenovala Princezna ze Mlejna?
+Jaké sériové označení měl starý Terminátor?
+Jak se slovensky jmenují koleje z Harryho Pottera?
+Jak se slovensky jmenuje Famfrpál?
+Jak se slovensky jmeuje Ufňukaná uršula?
+Co je nejlépe hodnocený film na ČSFD?
+Jaké povolaní má Indiana Jones?
+Kdo je nejlépe placeným hercem?
+Jak se jmenovali hobiti z Pána prstenů?
+Jak se jmenoval vyšlechtěný dinosaurs v Jurském světě?
+Jak se jmenoval král v Shrekovi?
+Jak se jmenovali lupiči ze Sám doma? (Přezdívka)
+Kdo patří do původních Avengers? (min 4)
+Kdo drží světový rekord v hodu Oštěpem?
+Kdo v hokeji nosí číslo 68?
+Jak se jmenoval největší a nejúspěšnější tělocvičný spolek v historii ČSR?
+Co je označováno jako Hokejový turnaj století?
+Co je moderní pětiboj?
+Z jakých disciplín se skládá triatlon?
+Jaká země má nejvíce medailí z ZOH?
+Jaký film byl v Americe nejdéle promítaný?
+Jak se jmenoval Batmanův komorník
+Jak se jmenoval Simbův otec? (Lví král)
+Jak se jmenoval Simbův strýc? (Lví král)
+Jak se jmenují původní zakladatelé bradavic?
+Jak se jmenuje tyge z knihy džunglí?
+Jak se jmenuje poručík z Foresta Gumpa?
+Jak se jmenovala Společnost Foresta Gumpa?
+Jak se jmenuje vůdce autobotů? (Transformers)
+Jak se jmenuje vůdce Deceptikonů? (Transformers)
+Jak se jmenovali 2 hlavní postavy z Titanicu?
+Jak se jmenovala umělá inteligence z Terminátora?
+Jak se jmenuje doktor z Návratu do budoucnosti?
+Jak se jmenuje hlavní postava z Návratu do budoucnosti?
+Jak se jmenuje pes ze Simpsonových?
+Jak se jmenoval ruský boxer z Rockyho?
+Jak se jmenuje pes od Obelixe?
+Jak se jmenoval Architekt pyramid z filmu Asterix a Obelix?
+Kolik dílů ma ulice? (+-100)
+Jak se jmenují hlavní mužeské postavy z Teorie velkého třesku?
+Jak se jmenují hlavní ženské postavy z Teorie velkého třesku?
+Kdo natočil nejdražší český film?
+#Kypr
+#Vatikan
+#Malta
+#Makedonie
+#Srbsko
+#Bosna
+#Chorvatsko
+#Andora
+#Spanelsko
+Co je to pazourek?
+Jaká slitna se používala v pravěku?
+První starověké státy v evropě?
+K čemu sloužili Pyramidy v Egyptě?
+Který kartaginský vůdce zaútočil na Řím přes Alpy
+Jaké město se jmenovala Konstantinopol?
+Co označují punské války?
+Kdo byl plebejec?
+Kdo řídil Řím, když se stal republikou?
+Jak se jmenuje nestarší dochované litarární dílo?
+Na co se dělí Bible?
+#Abu
+#Alfred
+#Aragorn
+#Aslan
+#Bean
+#Bella
+#Blesk
+#Bond
+#Bonnie
+#Bourak
+#Burak
+#Buzz
+#Caroline
+#Cervicek
+#Dan
+#Denerys
+#Diego
+#Dory
+#Drago
+#Dumbo
+#Edward
+#Elena
+#Elizabeth
+#English
+#Farquaad
+#Filch
+#Forest
+#Frodo
+#Gibbs
+#Herold
+#Jacob
+#Jaime
+#Jasmina
+#Jeremy
+#Joker
+#Jones
+#Klaus
+#Krason
+#Lincoln
+#Lovegood
+#Lucinka
+#Manny
+#Marty
+#Michael
+#Mike
+#Mufasa
+#Nemo
+#Neo
+#Nick
+#Nicolas
+#Obi
+#Olivander
+#Otik
+#Popletal
+#Pumba
+#Rebeka
+#Rocky
+#Rowena
+#Sara
+#Scar
+#Scrat
+#Simba
+#Simmons
+#Skrk
+#Snow
+#Sparrow
+#Spider
+#Stark
+#Timon
+#Tumnus
+#Tyrion
+#Vader
+#Will
+#Woody
+Kdy byl založen Netflix?
+Odkud vyplul Titanic? (Země)
+Do jakého města měl doplout Titanic?
+#Lockhart
+#Quirrell
+#Percy
+#George
+Jaké jádro měla harryho hůlka?
+Jaké zvíře zabil voldemort aby zůstal naživu?
+Jak jmenovala instituce, která řídila chod kouzelnického světa v Anglii?
+V jaké bance měl Harry Potter své peníze?
+Jaká měna platila v Harrym Potterovi?
+Jaké 3 úkoly plnili účastníci Turnaje tří kouzelníku?
+Jak se jmenoval turnaj který se konal v Bradavicích ve 3. díle?
+#Kriklan
+Jak se jmenují 3 míče z famfrpálu?
+Heslo ke společenské místnosti nebelvíru? (1)
+Heslo do brumbálovi pracovny?
+Jak se jmenoval Voldemort? (Celé jméno)
